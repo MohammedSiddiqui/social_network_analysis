@@ -1,0 +1,25 @@
+	Name	Dishes
+0	Anas	Afgani Tikkah
+1	Anas	Mandi
+2	Anas	Chicken Handi
+3	Chand	Afgani Tikkah
+4	Chand	Mutton Pulao
+5	Chand	Sindhi Biryani
+6	Faiza	Chicken Handi
+7	Faiza	Seekh Kabab
+8	Faiza	Suji Halwa
+9	Ghaffar	Afgani Tikkah
+10	Ghaffar	Mutton Pulao
+11	Ghaffar	Sindhi Biryani
+12	Jahanzaib	Fish
+13	Jahanzaib	Karahi
+14	Jahanzaib	Mandi
+15	Laiba	Fish
+16	Laiba	Karahi
+17	Laiba	Mandi
+18	Paras	Daal Chawal
+19	Paras	Chicken Handi
+20	Paras	Seekh Kabab
+21	Vali	Nihari
+22	Vali	Seekh Kabab
+23	Vali	Suji Halwa
